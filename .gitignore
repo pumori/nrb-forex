@@ -1,2 +1,8 @@
 # Ignore operating system generated files.
 .DS_Store
+.project
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
